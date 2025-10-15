@@ -8,8 +8,8 @@ export default class Empleado extends Persona {
         this.anioIncorporacion = anioIncorporacion;
     }
 
-    // Sobreescribimos el método para mostrar más información
-    atributosPersona() {
-        return `${super.atributosPersona()}, Año de Incorporación: ${this.anioIncorporacion}`;
+    // Sobreescribimos el getter para mostrar más información
+    get atributosPersona() {
+        return `${super.atributosPersona}, Año de Incorporación: ${this.anioIncorporacion}`;
     }
 }
