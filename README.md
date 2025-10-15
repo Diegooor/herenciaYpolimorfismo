@@ -30,8 +30,6 @@ herenciaYpolimofismo/
 
 Para abrir la consola:
 - Chrome/Edge: Presiona `F12` o `Ctrl + Shift + J`
-- Firefox: Presiona `F12` o `Ctrl + Shift + K`
-- Safari: Presiona `Cmd + Option + C`
 
 ## Instrucciones de Uso
 
